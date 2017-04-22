@@ -1,0 +1,5 @@
+---
+layout: post
+---
+
+The post.
