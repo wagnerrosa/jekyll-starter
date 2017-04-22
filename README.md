@@ -11,8 +11,8 @@ To get started, Fork this repo and [install Jekyll](http://jekyllrb.com/docs/ins
   * Bootstrap4
 
 
-Just run 'jekyll s' and you should then be able to access the site locally on http://127.0.0.1:4000/
+Just run `jekyll s` and you should then be able to access the site locally on http://127.0.0.1:4000/
 
 ## Notes
 
-  * If you're on vagrant do 'jekyll serve --host 0.0.0.0 --force_polling'
+  * If you're on vagrant do `jekyll serve --host 0.0.0.0 --force_polling`
